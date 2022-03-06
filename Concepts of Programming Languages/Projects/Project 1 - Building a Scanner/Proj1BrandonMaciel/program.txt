@@ -1,0 +1,2 @@
+aaaAAA/* this is a comment */aaaAA
+aaaAA

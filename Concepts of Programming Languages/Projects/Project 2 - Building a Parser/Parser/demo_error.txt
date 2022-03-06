@@ -1,0 +1,5 @@
+sum :error= 200 + B write // this is a line comment
+/* this is 
+    testing the 
+    block comment */
+sum

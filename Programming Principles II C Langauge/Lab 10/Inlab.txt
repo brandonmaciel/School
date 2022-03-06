@@ -1,0 +1,29 @@
+typedef struct{
+	char street_address[100];
+	char city[50];
+	char state[50];
+	int zip_code;
+}address;
+
+typedef enum {monday, tuesday, wednesday, thursday, friday, saturday, sunday}days;
+
+typedef struct {
+	int hour;
+	int minutes;
+}time;
+
+
+typedef struct{
+	char class_record[50];
+	char class_description[200];
+	time time;
+	int days[7];
+	
+}class_schedule;
+
+typedef struct{
+	double gpa;
+	char major[50];
+	address addy;
+	class_schedule schedule[6];
+}student_data;
