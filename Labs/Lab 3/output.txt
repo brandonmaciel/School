@@ -1,0 +1,14 @@
+Enter paycode ( -1 to end): 1
+Manger selected.
+Enter weekly salary: 600
+The manager's pay is $600.00
+
+Enter paycode ( -1 to end): 6
+Invalid pay code.
+
+Enter paycode ( -1 to end): -1
+
+Total number of managers paid           : 1
+Total number of hourly workers paid     : 0
+Total number of commission workers paid : 0
+Total number of pieceworkers paid       : 0

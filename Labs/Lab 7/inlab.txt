@@ -1,0 +1,73 @@
+Question 2
+    #include <stdio.h>
+    #include <string.h>
+
+    int main(void){
+        char t2[] = "Happy RedRaider";
+        char t1[15];
+        
+        strncpy(t1, &t2[3], 5); t1[5] = '\0';
+
+        printf("\n t1 = %s      &t2[3] = %s         t2 = %s\n\n", t1, &t2[3], t2);
+
+        return 0;
+    }
+
+Question 3
+    #include <stdio.h>
+    #include <string.h>
+
+    int main(void){
+        char city[20] = "Lubbock TX 79401"; char *one, *two, *three;
+        one = strtok(city, " ");
+        printf("\n%s\n", one);
+        two = strtok(NULL, " ");
+        printf("\n%s\n", two);
+        three = strtok(NULL, " ");
+        printf("\n%s\n", three);
+        printf("%s\n%s\n%s\n\n", one, two, three);
+
+        return 0;
+    }
+
+Question 5
+    #include <stdio.h>
+    #include <string.h>
+    #include <ctype.h>
+
+    int main(void){
+        char line[100];
+        fgets(line, 100, stdin); 
+        printf("\n");
+
+        for (int i = 0 ; i < strlen(line); ++i){
+            if (isupper(line[i])){
+                putchar(line[i]); 
+            }
+        }
+        printf("\n");
+        return 0;
+    }
+
+Question 6
+    #include <stdio.h>
+    #include <string.h>
+
+    char *delete_first_occurrence(char *string, char specified_char);
+
+    int main(void){
+        printf("\n%s\n\n", delete_first_occurrence("testssas", 'e'));
+        return 0;
+    }
+
+    char *delete_first_occurrence(char *string, char specified_char){
+        static char new_string[100];
+
+        for (int i = 0 ; i < strlen(string); ++i){
+            if (string[i] == specified_char){
+                strcat(strncpy(new_string, string, i), &string[i+1]);
+                break;
+            }
+        }
+        return new_string;
+    }

@@ -1,0 +1,63 @@
+INTRAVENOUS RATE ASSISTANT
+
+Enter the number of the problem you wish to solve.
+    GIVEN A MEDICAL ORDER IN                CALCULATE RATE IN
+(1) ml/hr & tubing drop factor              dorps / min
+(2) 1 L for n hr                            ml / hr
+(3) mg/kg/hr & concentration in mg/ml       ml / hr
+(4) units/hr & concentration in units/ml    ml / hr
+(5) QUIT
+
+Problem> 1
+Enter rate in ml/hr=> 150
+Enter tubing's drop factor(drops/ml)=> 15
+The drop rate per minute is 38.
+
+Enter the number of the problem you wish to solve.
+    GIVEN A MEDICAL ORDER IN                CALCULATE RATE IN
+(1) ml/hr & tubing drop factor              dorps / min
+(2) 1 L for n hr                            ml / hr
+(3) mg/kg/hr & concentration in mg/ml       ml / hr
+(4) units/hr & concentration in units/ml    ml / hr
+(5) QUIT
+
+Problem> 2
+Enter number of hours=> 8
+The rate in milliliters per hour is 125.
+
+Enter the number of the problem you wish to solve.
+    GIVEN A MEDICAL ORDER IN                CALCULATE RATE IN
+(1) ml/hr & tubing drop factor              dorps / min
+(2) 1 L for n hr                            ml / hr
+(3) mg/kg/hr & concentration in mg/ml       ml / hr
+(4) units/hr & concentration in units/ml    ml / hr
+(5) QUIT
+
+Problem> 3
+Enter rate in mg/kg/hr=> 0.6
+Enter patient weight in kg=> 70
+Enter concentration in mg/ml=> 1
+The rate in milliliters per hour is 42.
+
+Enter the number of the problem you wish to solve.
+    GIVEN A MEDICAL ORDER IN                CALCULATE RATE IN
+(1) ml/hr & tubing drop factor              dorps / min
+(2) 1 L for n hr                            ml / hr
+(3) mg/kg/hr & concentration in mg/ml       ml / hr
+(4) units/hr & concentration in units/ml    ml / hr
+(5) QUIT
+
+Problem> 4
+Enter rate in units/hr=> 1000
+Enter concentration in units/ml=> 25
+The rate in milliliters per hour is 40.
+
+Enter the number of the problem you wish to solve.
+    GIVEN A MEDICAL ORDER IN                CALCULATE RATE IN
+(1) ml/hr & tubing drop factor              dorps / min
+(2) 1 L for n hr                            ml / hr
+(3) mg/kg/hr & concentration in mg/ml       ml / hr
+(4) units/hr & concentration in units/ml    ml / hr
+(5) QUIT
+
+Problem> 5

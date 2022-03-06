@@ -1,0 +1,3 @@
+Enter prodcut info in a single line: corn 89C 11 2020 12B
+
+The corn costs 89 cents, and expires in November of 2020, and is displayed in aisle 12B.

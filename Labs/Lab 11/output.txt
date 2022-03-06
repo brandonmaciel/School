@@ -1,0 +1,31 @@
+1: create new flight record
+2: delete existing flight record
+3: update of existing flight record
+4: make a reservation
+5: cancel a reservation
+6: quit
+
+Enter the action to be completed: 1
+
+        ---------------------------------------Create new flight record chosen!---------------------------------------
+        Enter the flight number: AAL9032
+        Enter city of departure: Dallas
+        Enter destination: Lubbock
+        Enter date (format mm/dd/yyyy) and time (format: hh:mm) of departure (ex. 07/04/1776 18:32): 07/04/1776 12:32
+        Enter date (format mm/dd/yyyy) and time (format: hh:mm) of arrival (ex. 07/04/1776 18:32): 04/20/2020 04:20
+        Enter the number of first class seats available: 3
+        Enter the number of first class seats sold: 2
+        Enter the number of coach seats available: 64
+        Enter the number of coach seats sold: 22
+
+        Flight record successfully created!
+
+1: create new flight record
+2: delete existing flight record
+3: update of existing flight record
+4: make a reservation
+5: cancel a reservation
+6: quit
+
+Enter the action to be completed: 6
+quit!
