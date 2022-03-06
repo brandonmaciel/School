@@ -1,7 +1,0 @@
-{"Karen", 1121.00, [{"Bananas, 5.12, 2}, {"Cookies", 3.34, 1}, {"Eggs", 1.56, 2}]}
-{"Jimmy", 1121.00, [{"Chicken", 5.56, 12}, {"Beef", 3.46, 1}, {"Milk", 1.36, 2}]}
-{"Jessie", 1121.00, [{"Apples", 5.34, 6}, {"Bananas", 3.26, 1}, {"Cheese", 1.33, 23}]}
-{"Brandon", 1121.00, [{"Bananas", 5.22, 3}, {"Cookies", 3.23, 2}]}
-{"Karen", 15.00, [{"Bananas", 5.00, 1}, {"Cookies", 3.50, 1}, {"Eggs", 1.25, 2}]}
-{"Bill", 50.00, [{"Water", 3.99, 3}, {"Hamburger Meat", 8.50, 2}, {"Eggs", 1.25, 6}]}
-{"Jimmy", 17.00, [{"Wine", 16.00, 1}]}
