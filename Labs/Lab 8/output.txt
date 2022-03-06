@@ -1,9 +1,0 @@
-Input the number of elements to store in the array: 4
-Input 4 elemnts to the array:
-element - 0: 15
-element - 1: 25
-element - 2: 35
-element - 3: 40
-Input the number to search: 35
-
-Found number 35 in index 2

@@ -1,6 +1,0 @@
-Montlhy payment calculator
-Enter the car's purchase price: 20000
-Enter the down payment on the car: 500
-Enter the annual interest rate: 20
-Enter the total number of payments: 12
-The amount borrowed is $19500.00, and the montlhy payment is $1806.37.

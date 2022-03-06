@@ -1,8 +1,0 @@
-Years Elapsed      Cobalt-60 Remaining
-      0                 500.000 g
-      1                 438.412 g
-      2                 384.410 g
-      3                 337.060 g
-      4                 295.542 g
-      5                 259.139 g
-      
